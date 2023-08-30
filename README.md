@@ -1,1 +1,2 @@
-0x03-git
+My first readme
+this line was updated from git hub
